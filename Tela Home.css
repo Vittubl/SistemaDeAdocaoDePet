@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,300;1,500&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.main-login {
+width: 100vw;
+height: 10vh;
+background-color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.left-login > h1 {
+font-size: 2vw;
+color: rgb(117, 41, 189);
+}
+
+.left-login-image{
+    width: 35vw;
+}
